@@ -1,91 +1,97 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f7aec,100:8e5cff&height=140&section=header&text=Kiril%20Petrovski&fontColor=ffffff&fontSize=44&fontAlignY=35" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f7aec,100:8e5cff&height=150&section=header&text=Kiril%20Petrovski&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Mobile%20Engineer%20%C2%B7%20Product%20Builder&descAlignY=56&descSize=16" alt="Kiril Petrovski"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F7AEC&width=1000&lines=Game+Developer+%7C+CS+Student;Godot+%C2%B7+Three.js+%C2%B7+Python;Building+small+worlds+that+run+in+a+browser" alt="Typing SVG"/>
-</a>
+<p align="center">
+  <a href="https://kpetrovski.me"><img src="https://img.shields.io/badge/Portfolio-kpetrovski.me-1f7aec?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://kpetrovski.me/play/"><img src="https://img.shields.io/badge/%E2%9C%B3%20Playground-Play%2012%20games%20in%20browser-8e5cff?style=for-the-badge&logoColor=white" alt="Playground"/></a>
+  <a href="https://kpetrovski.me/Kiril-Petrovski-CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+</p>
 
----
-
-### About Me
-- CS student who builds **games** more often than assignments
-- Godot, Three.js/TypeScript, and a bunch of plain HTML/CSS/JS
-- Into procedural generation, ML fundamentals, and game jams
-- Site: **[kpetrovski.me](https://kpetrovski.me)**
-
----
-
-## Projects
-
-- **[The Wandering Keep](https://github.com/Kiril-P/the-wandering-keep)** — cozy procedural 3D incremental game: grow a castle on a wandering stone giant
-- **[Rush Hour Rooftops](https://github.com/Kiril-P/rush-hour-rooftops)** — stylized rooftop transit game above the clouds, with a growing cable network
-- **[Stormwright](https://github.com/Kiril-P/stormwright)** — Godot spellcraft arena: three storm spells, eight modifiers, six encounters
-- **[Floating Island Factory](https://github.com/Kiril-P/floating-island-factory)** — playable 3D factory builder in TypeScript + Three.js
-- **[Merge Goblin](https://github.com/Kiril-P/merge-goblin)** — he guards the merge button, reviewing the PRs that ask for your review
-- **[Starburst](https://github.com/Kiril-P/starburst)** — bullet hell mayhem
-- **[ChessEngine](https://github.com/Kiril-P/ChessEngine)** — chess engine in Python
-- **[Black Hole Render](https://github.com/Kiril-P/black-hole-render)** — real-time gravitational lensing in the browser
-
----
-
-### Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-</div>
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=godot,ts,threejs,js,python,c,cs,html,css,react,nodejs,git,github,docker,aws,blender)](https://skillicons.dev)
-
-</div>
-
----
-
-### GitHub Stats & Trophies
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiril-P&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiril-P&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170px"/>
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiril-P&theme=radical&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F7AEC&center=true&vCenter=true&width=700&lines=CS+%26+AI+Student+%40+IE+University%2C+Madrid;React+Native+in+production+%C2%B7+AI+workflows;Shipping+to+real+users%2C+not+just+repos;Available+for+Summer+2027+internships" alt="Typing SVG"/>
   </a>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kiril-P&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
+</p>
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiril-P&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### About
+
+CS & AI student at **IE University, Madrid**, building mobile products, AI workflows, and fast prototypes with real users in mind. I like messy problems and the unglamorous work after version one: production React Native at **naiss ride**, developer tooling at **EaseAccess24**, marketplace leadership at **Cleanr**, and **StreamScope** shipped in 10 days to 2nd place at the IE Tech Venture Bootcamp 2026.
+
+<sub>📍 Madrid · 🎓 CS + AI @ IE · 🟢 Open to Summer 2027 internships</sub>
 
 ---
 
-<div align="center">
-  <h3>What I'm Digging Into</h3>
-  <p><strong>Procedural generation</strong> — worlds that build themselves</p>
-  <p><strong>Game feel</strong> — juice, timing, and the 20% that makes it fun</p>
-  <p><strong>Machine learning</strong> — fundamentals first, then the fun stuff</p>
-  <p><strong>Shaders &amp; rendering</strong> — from black holes to cel-shaded rooftops</p>
-</div>
+## Selected work
+
+Full write-ups live on my portfolio — each title links to its case study.
+
+| Project | What it is |
+| :-- | :-- |
+| **[naiss ride](https://kpetrovski.me/projects/naiss-ride)** <br/> `React Native` · live | Live on iOS & Android at **4.6/5** on the App Store. Built the rewards & ranking engine and a full camera-capture revamp; 40+ tickets on a near-weekly release cadence. |
+| **[EaseAccess24 Automation](https://kpetrovski.me/projects/easeaccess24-automation)** <br/> `Slack + Gemini` · internship | Internal intelligence system turning meeting recordings into structured summaries and validated Jira sprint digests. Plus a Shopify app, the VivaTech 2026 landing page, and a CLI that killed manual `.env` sharing for 12 people. |
+| **[Cleanr](https://kpetrovski.me/projects/cleanr)** <br/> `React Native` · **Best Undergraduate Startup 2025** | Led a 3-developer team to **600+ cleanings** and Best Undergraduate Startup at IE Venture Lab 2025 — booking, matching, payments, maps, and mobile release execution. |
+| **[AURA AI Receptionist](https://kpetrovski.me/projects/aura-voice-assistant)** <br/> `Node.js` · 2 enterprise clients | Live AI receptionist ([getaura.lu](https://getaura.lu)) handling voice-agent tool calls, webhook reliability, onboarding email, and calendar scheduling. |
+| **[StreamScope](https://kpetrovski.me/projects/streamscope)** <br/> `Full stack` · **2nd place** | A messy creator-workflow problem turned into a focused MVP under a 10-day deadline. |
+| **[Iberdrola Datathon](https://kpetrovski.me/projects/iberdrola-datathon)** <br/> `Python` | Messy infrastructure and demand data → a business-defensible EV rollout plan with reproducible outputs, maps, and pitch-ready evidence. |
+| **[Chess Anomaly Detection](https://github.com/Kiril-P/Final-Group-Project-Machine-Learning)** <br/> `Python` · 100/100 | LOF hit **0.971 test AUC** on subtle synthetic injection; the ensemble flagged 312 of 17,909 players for review. |
 
 ---
 
-<div align="center">
-  <h3>Connect with Me</h3>
-  <a href="https://kpetrovski.me" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## ✳ Playground — things you can actually play
+
+Everything below runs in the browser. No install, no download.
+
+<p align="center">
+  <a href="https://kpetrovski.me/play/"><img src="https://img.shields.io/badge/%E2%86%92%20Open%20the%20Playground-12%20games%20%26%20experiments-8e5cff?style=for-the-badge" alt="Open the Playground"/></a>
+</p>
+
+| | Play | |
+| :-- | :-- | :-- |
+| 🏰 **[The Wandering Keep](https://kpetrovski.me/play/the-wandering-keep/)** <br/> <sub>cozy procedural 3D incremental</sub> | ⛈️ **[Stormwright](https://kpetrovski.me/play/stormwright/)** <br/> <sub>Godot spellcraft arena</sub> | 🔺 **[Polygon Protocol](https://kpetrovski.me/play/polygon-protocol/)** <br/> <sub>#7 enjoyment / 160 · Mini Jam 202</sub> |
+| 🏭 **[Floating Island Factory](https://kpetrovski.me/play/floating-island-factory/)** <br/> <sub>3D factory builder, Three.js</sub> | 🚡 **[Rush Hour Rooftops](https://kpetrovski.me/play/rush-hour-rooftops/)** <br/> <sub>rooftop transit above the clouds</sub> | 🎵 **[Spotiguessr](https://kpetrovski.me/play/spotiguessr/)** <br/> <sub>guess the track</sub> |
+| ✨ **[StarBurst](https://kpetrovski.me/play/starburst/)** <br/> <sub>Bullet Hell Jam 6</sub> | 🃏 **[Archmage Brolo](https://kpetrovski.me/play/archmage-brolo-card-battle/)** <br/> <sub>framework-free card battler</sub> | ⌨️ **[Typing Wizard Duel](https://kpetrovski.me/play/typing-wizard-duel/)** <br/> <sub>typing as a combat loop</sub> |
+
+<p align="center">
+  <a href="https://kpetrovski.me/play/"><img src="https://img.shields.io/badge/%E2%9A%84%20Feeling%20lucky%3F-Random%20game-1f7aec?style=flat-square" alt="Random game"/></a>
+  <a href="https://kirilp.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io"/></a>
+</p>
+
+---
+
+### Tech
+
+<p align="center">
+  <a href="https://kpetrovski.me/#tech-stack"><img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,godot,threejs,js,cpp,c,java,postgres,firebase,aws,docker,git,figma&perline=8" alt="Tech stack"/></a>
+</p>
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiril-P&theme=github_dark" width="90%" alt="Profile summary"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kiril-P&theme=dark&hide_border=true&background=0D1117&ring=1F7AEC&fire=8E5CFF&currStreakLabel=1F7AEC" alt="Streak" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kiril-P&theme=github_dark" alt="Most used languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1f7aec/Kiril-P" width="90%" alt="Contribution chart"/>
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://kpetrovski.me"><img src="https://img.shields.io/badge/-Portfolio-1f7aec?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/kiril-petrovski"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kirilp.itch.io/"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/></a>
+  <a href="https://x.com/pl1rik"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:kirilpetrovski2005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e5cff,100:1f7aec&height=120&section=footer" alt="footer"/>
