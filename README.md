@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F7AEC&center=true&vCenter=true&width=700&lines=CS+%26+AI+Student+%40+IE+University%2C+Madrid;React+Native+in+production+%C2%B7+AI+workflows;Shipping+to+real+users%2C+not+just+repos;Available+for+Summer+2027+internships" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F7AEC&center=true&vCenter=true&width=700&lines=CS+%26+AI+Student+%40+IE+University%2C+Madrid;React+Native+in+production+%C2%B7+AI+workflows;Shipping+to+real+users%2C+not+just+repos;Full-stack+%40+EaseAccess24+%C2%B7+Mobile+%40+naiss+ride" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 CS & AI student at **IE University, Madrid**, building mobile products, AI workflows, and fast prototypes with real users in mind. I like messy problems and the unglamorous work after version one: production React Native at **naiss ride**, full-stack engineering at **EaseAccess24** (hired after interning), marketplace leadership at **Cleanr**, and **StreamScope** shipped in 10 days to 2nd place at the IE Tech Venture Bootcamp 2026.
 
-<sub>📍 Madrid · 🎓 CS + AI @ IE · 🟢 Open to Summer 2027 internships</sub>
+<sub>📍 Madrid · 🎓 CS + AI @ IE</sub>
 
 ---
 
