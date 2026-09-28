@@ -16,7 +16,7 @@
 
 ### About
 
-CS & AI student at **IE University, Madrid**, building mobile products, AI workflows, and fast prototypes with real users in mind. I like messy problems and the unglamorous work after version one: production React Native at **naiss ride**, developer tooling at **EaseAccess24**, marketplace leadership at **Cleanr**, and **StreamScope** shipped in 10 days to 2nd place at the IE Tech Venture Bootcamp 2026.
+CS & AI student at **IE University, Madrid**, building mobile products, AI workflows, and fast prototypes with real users in mind. I like messy problems and the unglamorous work after version one: production React Native at **naiss ride**, full-stack engineering at **EaseAccess24** (hired after interning), marketplace leadership at **Cleanr**, and **StreamScope** shipped in 10 days to 2nd place at the IE Tech Venture Bootcamp 2026.
 
 <sub>📍 Madrid · 🎓 CS + AI @ IE · 🟢 Open to Summer 2027 internships</sub>
 
@@ -29,7 +29,7 @@ Full write-ups live on my portfolio — each title links to its case study.
 | Project | What it is |
 | :-- | :-- |
 | **[naiss ride](https://kpetrovski.me/projects/naiss-ride)** <br/> `React Native` · live | Live on iOS & Android at **4.6/5** on the App Store. Built the rewards & ranking engine and a full camera-capture revamp; 40+ tickets on a near-weekly release cadence. |
-| **[EaseAccess24 Automation](https://kpetrovski.me/projects/easeaccess24-automation)** <br/> `Slack + Gemini` · internship | Internal intelligence system turning meeting recordings into structured summaries and validated Jira sprint digests. Plus a Shopify app, the VivaTech 2026 landing page, and a CLI that killed manual `.env` sharing for 12 people. |
+| **[EaseAccess24 Automation](https://kpetrovski.me/projects/easeaccess24-automation)** <br/> `Slack + Gemini` · intern → Full-Stack Engineer | Internal intelligence system turning meeting recordings into structured summaries and validated Jira sprint digests. Plus a Shopify app, the VivaTech 2026 landing page, and a CLI that killed manual `.env` sharing for 12 people. |
 | **[Cleanr](https://kpetrovski.me/projects/cleanr)** <br/> `React Native` · **Best Undergraduate Startup 2025** | Led a 3-developer team to **600+ cleanings** and Best Undergraduate Startup at IE Venture Lab 2025 — booking, matching, payments, maps, and mobile release execution. |
 | **[AURA AI Receptionist](https://kpetrovski.me/projects/aura-voice-assistant)** <br/> `Node.js` · 2 enterprise clients | Live AI receptionist ([getaura.lu](https://getaura.lu)) handling voice-agent tool calls, webhook reliability, onboarding email, and calendar scheduling. |
 | **[StreamScope](https://kpetrovski.me/projects/streamscope)** <br/> `Full stack` · **2nd place** | A messy creator-workflow problem turned into a focused MVP under a 10-day deadline. |
