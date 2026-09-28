@@ -28,7 +28,7 @@ Full write-ups live on my portfolio — each title links to its case study.
 
 | Project | What it is |
 | :-- | :-- |
-| **[naiss ride](https://kpetrovski.me/projects/naiss-ride)** <br/> `React Native` · live | Live on iOS & Android at **4.6/5** on the App Store. Built the rewards & ranking engine and a full camera-capture revamp; 40+ tickets on a near-weekly release cadence. |
+| **[naiss ride](https://kpetrovski.me/projects/naiss-ride)** <br/> `React Native` · live | Live on iOS & Android at **4.6/5** on the App Store. Built the rewards & ranking engine and a full camera-capture revamp; 180+ tickets on a near-weekly release cadence. |
 | **[EaseAccess24 Automation](https://kpetrovski.me/projects/easeaccess24-automation)** <br/> `Slack + Gemini` · intern → Full-Stack Engineer | Internal intelligence system turning meeting recordings into structured summaries and validated Jira sprint digests. Plus a Shopify app, the VivaTech 2026 landing page, and a CLI that killed manual `.env` sharing for 12 people. |
 | **[Cleanr](https://kpetrovski.me/projects/cleanr)** <br/> `React Native` · **Best Undergraduate Startup 2025** | Led a 3-developer team to **600+ cleanings** and Best Undergraduate Startup at IE Venture Lab 2025 — booking, matching, payments, maps, and mobile release execution. |
 | **[AURA AI Receptionist](https://kpetrovski.me/projects/aura-voice-assistant)** <br/> `Node.js` · 2 enterprise clients | Live AI receptionist ([getaura.lu](https://getaura.lu)) handling voice-agent tool calls, webhook reliability, onboarding email, and calendar scheduling. |
