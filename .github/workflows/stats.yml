@@ -22,6 +22,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Draw
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 assets/stats.py > stats.tmp && mv stats.tmp assets/stats.svg
       - name: Commit if changed
         run: |
