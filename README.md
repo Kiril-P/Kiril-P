@@ -15,7 +15,7 @@ I'm Macedonian, grew up between Macedonia and Qatar, and study CS & AI at IE Uni
 
 **lately**
 
-- [merge-goblin](https://github.com/Kiril-P/merge-goblin): a little menu-bar goblin that reviews open pull requests on a schedule and leaves comments. It's reviewed 500+ PRs at work so far.
+- [merge-goblin](https://github.com/Kiril-P/merge-goblin): a little Mac menu-bar goblin that reviews pull requests on the Claude, Codex or Cursor subscription you already pay for. Type a PR number, read his review, then post. It's reviewed 500+ PRs at work so far.
 - [Accessibility Arcade](https://empathy.easeaccess24.com): an interactive site that puts you in front of everyday accessibility barriers, then shows the design fix. Tested with VoiceOver, keyboard-only and reduced motion.
 - game jams, too many of them. [Polygon Protocol](https://kirilpetrovski.com/play/polygon-protocol/) was a solo weekend in Godot: a geometric roguelite bullet-hell with procedural enemy waves and shader effects. It came 7th for enjoyment and 11th overall out of 160 entries.
 
