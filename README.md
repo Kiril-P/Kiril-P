@@ -17,7 +17,7 @@ I'm Macedonian, grew up between Macedonia and Qatar, and study CS & AI at IE Uni
 
 - [merge-goblin](https://github.com/Kiril-P/merge-goblin): a little Mac menu-bar goblin that reviews pull requests on the Claude, Codex or Cursor subscription you already pay for. Type a PR number, read his review, then post. It's reviewed 500+ PRs at work so far.
 - [Accessibility Arcade](https://empathy.easeaccess24.com): an interactive site that puts you in front of everyday accessibility barriers, then shows the design fix. Tested with VoiceOver, keyboard-only and reduced motion.
-- game jams, too many of them. [Polygon Protocol](https://kirilpetrovski.com/play/polygon-protocol/) was a solo weekend in Godot: a geometric roguelite bullet-hell with procedural enemy waves and shader effects. It came 7th for enjoyment and 11th overall out of 160 entries.
+- game jams, too many of them. [Polygon Protocol](https://kirilp.itch.io/polygon-protocol) started as a solo weekend in Godot (7th for enjoyment, 11th overall of 160) and grew into a full roguelite: four bosses, a daily run, a shape tree. [StarBurst](https://kirilp.itch.io/starburst) is a pixel-art bullet hell in Phaser, now with world leaderboards.
 
 **before that**
 
