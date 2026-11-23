@@ -2,8 +2,8 @@
 
 I build apps people actually open. Right now that's two jobs:
 
-- **mobile at [naiss ride](https://kirilpetrovski.com/projects/naiss-ride)**, a carpooling app in Spain. I rebuilt the camera, made the rewards system, and built the games you play in the car. The driver's version uses a 1-to-10 wheel so they say a number out loud and never touch the phone.
-- **full-stack at [EaseAccess24](https://kirilpetrovski.com/projects/easeaccess24-automation)**, an accessibility company. I interned there over the summer and they kept me. Right now I'm building a B2B e-commerce platform for one of our clients: checkout, business accounts, order tracking in three languages.
+- **mobile at [naiss ride](https://kirilpetrovski.com/work/naiss-ride/)**, a carpooling app in Spain. I rebuilt the camera, made the rewards system, and built the games you play in the car. The driver's version uses a 1-to-10 wheel so they say a number out loud and never touch the phone.
+- **full-stack at [EaseAccess24](https://kirilpetrovski.com/work/easeaccess24/)**, an accessibility company. I interned there over the summer and they kept me. Right now I'm building a B2B e-commerce platform for one of our clients: checkout, business accounts, order tracking in three languages.
 
 I'm Macedonian, grew up between Macedonia and Qatar, and study CS & AI at IE University in Madrid.
 
@@ -21,9 +21,8 @@ I'm Macedonian, grew up between Macedonia and Qatar, and study CS & AI at IE Uni
 
 **before that**
 
-- [StreamScope](https://kirilpetrovski.com/projects/streamscope): real-time chat filtering for live streamers. Ten days from zero to deployed, 2nd place at IE's Tech Venture Bootcamp.
-- [AURA](https://getaura.lu): an AI phone receptionist that routes calls and books appointments. Live in Luxembourg with a medical office and a restaurant chain.
-- [Cleanr](https://kirilpetrovski.com/projects/cleanr): led three developers on an Uber-style cleaning marketplace. 600+ cleanings, Best Undergraduate Startup at IE Venture Lab 2025.
+- [StreamScope](https://kirilpetrovski.com/work/streamscope/): real-time chat filtering for live streamers. Ten days from zero to deployed, 2nd place at IE's Tech Venture Bootcamp.
+- [Cleanr](https://kirilpetrovski.com/work/cleanr/): led three developers on an Uber-style cleaning marketplace. 600+ cleanings, Best Undergraduate Startup at IE Venture Lab 2025.
 - [chess cheat detection](https://github.com/Kiril-P/Final-Group-Project-Machine-Learning): spots cheating from how people play. 0.971 test AUC, and it flagged 312 of 17,909 players for review.
 
 **off-screen:** the occasional half-marathon, some gym and swimming, six years of cello and over ten years of basketball.
